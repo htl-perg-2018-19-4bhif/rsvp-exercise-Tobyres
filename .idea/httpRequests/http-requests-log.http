@@ -1,0 +1,200 @@
+POST http://localhost:8080/register
+Accept: application/json
+Content-Type: application/json
+
+{ "firstName": "Foo", "lastName": "Bar" }
+
+<> 2018-12-05T085017.200.json
+
+###
+
+GET http://localhost:8080/party
+Accept: application/json
+
+<> 2018-12-05T084929.200.json
+
+###
+
+POST http://localhost:8080/register
+Accept: application/json
+Content-Type: application/json
+
+{ "firstName": "Foo", "lastName": "Bar" }
+
+<> 2018-12-05T084921.200.json
+
+###
+
+GET http://localhost:8080/party
+Accept: application/json
+
+<> 2018-12-05T081534.200.json
+
+###
+
+GET http://localhost:8080/party
+Accept: application/json
+
+<> 2018-12-05T080516.200.json
+
+###
+
+POST http://localhost:8080/register
+Accept: application/json
+Content-Type: application/json
+
+{ "firstName": "Foo", "lastName": "Bar" }
+
+<> 2018-12-05T080034.404.html
+
+###
+
+POST http://localhost:8080/register
+Accept: application/json
+Content-Type: application/json
+
+{ "firstName": "Foo", "lastName": "Bar" }
+
+<> 2018-12-05T080003.200.json
+
+###
+
+POST http://localhost:8080/register
+Accept: application/json
+Content-Type: application/json
+
+{ "firstName": "Foo", "lastName": "Bar" }
+
+<> 2018-12-05T075906.404.html
+
+###
+
+POST http://localhost:8080/register
+Accept: application/json
+Content-Type: application/json
+
+{ "firstName": "Foo", "lastName": "Bar" }
+
+<> 2018-12-05T075707.404.html
+
+###
+
+POST http://localhost:8080/register
+Accept: application/json
+Content-Type: application/json
+
+{ "firstName": "Foo", "lastName": "Bar" }
+
+<> 2018-12-05T075358.404.html
+
+###
+
+GET http://localhost:8080/guests
+Accept: application/json
+Authorization: Basic YWRtaW46UEBzc3cwcmQh
+
+<> 2018-12-05T111441.200.json
+
+###
+
+GET http://localhost:8080/guests
+Accept: application/json
+Authorization: Basic admin:admin
+
+###
+
+GET http://localhost:8080/guests
+Accept: application/json
+Authorization: Basic YWRtaW46UEBzc3cwcmQh
+
+<> 2018-12-05T110200.200.json
+
+###
+
+GET http://localhost:8080/guests
+Accept: application/json
+
+###
+
+GET http://localhost:8080/guests
+Accept: application/json
+Authorization: Basic YWRtaW46UEBzc3cwcmQh
+
+<> 2018-12-05T104346.200.json
+
+###
+
+GET http://localhost:8080/guests
+Accept: application/json
+
+###
+
+POST http://localhost:8080/register
+Accept: application/json
+Content-Type: application/json
+
+{ "firstName": "Foo", "lastName": "Bar" }
+
+<> 2018-12-05T104246.201.json
+
+###
+
+GET http://localhost:8080/guests
+Accept: application/json
+
+###
+
+POST http://localhost:8080/register
+Accept: application/json
+Content-Type: application/json
+
+{ "firstName": "Foo", "lastName": "Bar" }
+
+<> 2018-12-05T104118.201.json
+
+###
+
+GET http://localhost:8080/guests
+Accept: application/json
+
+###
+
+GET http://localhost:8080/guests
+Accept: application/json
+Authorization: Basic YWRtaW46UEBzc3cwcmQh
+
+<> 2018-12-05T104102.200.json
+
+###
+
+GET http://localhost:8080/guests
+Accept: application/json
+
+###
+
+POST http://localhost:8080/register
+Accept: application/json
+Content-Type: application/json
+
+{ "firstName": "Foo", "lastName": "Bar" }
+
+<> 2018-12-05T103901.201.json
+
+###
+
+POST http://localhost:8080/register
+Accept: application/json
+Content-Type: application/json
+
+{ "firstName": "Foo", "lastName": "Bar" }
+
+###
+
+POST http://localhost:8080/register
+Accept: application/json
+Content-Type: application/json
+
+{ "firstName": "Foo", "lastName": "Bar" }
+
+###
+

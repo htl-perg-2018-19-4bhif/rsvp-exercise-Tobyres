@@ -1,0 +1,10 @@
+{
+  "firstName": "Foo",
+  "lastName": "Bar",
+  "meta": {
+    "revision": 0,
+    "created": 1544002741600,
+    "version": 0
+  },
+  "$loki": 1
+}

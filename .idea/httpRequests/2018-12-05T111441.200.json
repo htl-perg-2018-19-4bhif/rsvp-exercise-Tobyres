@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Foo",
+    "lastName": "Bar",
+    "meta": {
+      "revision": 0,
+      "created": 1544002741600,
+      "version": 0
+    },
+    "$loki": 1
+  },
+  {
+    "firstName": "Foo",
+    "lastName": "Bar",
+    "meta": {
+      "revision": 0,
+      "created": 1544002878252,
+      "version": 0
+    },
+    "$loki": 2
+  },
+  {
+    "firstName": "Foo",
+    "lastName": "Bar",
+    "meta": {
+      "revision": 0,
+      "created": 1544002966812,
+      "version": 0
+    },
+    "$loki": 3
+  }
+]
